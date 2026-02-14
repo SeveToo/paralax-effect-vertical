@@ -1,13 +1,13 @@
 <div align="center" id="top"> 
   
 <h1 align="center">One div element</h1>
-  <a target="_blank" href="https://sevetoo.github.io/paralax-effect/">
+  <a target="_blank" href="https://sevetoo.github.io/paralax-effect-vertical/">
   <img src="./preview.png" alt="One Div Element" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/paralax-effect/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/paralax-effect-vertical/">Demo</a>
 
 </div>
 
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/paralax-effect/
+https://sevetoo.github.io/paralax-effect-vertical/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/paralax-effect/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/paralax-effect-vertical/" >click link</a> )
 
 ## 😎 Made by
 
